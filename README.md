@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lhl88422
+- 👋 Hi, I’m Luke Lambert
 - 👀 I’m interested in ... soccer and playing xbox
 - 🌱 I’m currently learning ... MIS Stuff
 - 💞️ I’m looking to collaborate on ... aything 
