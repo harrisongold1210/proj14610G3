@@ -30,7 +30,7 @@ Raul Fernandez
 
 <img width="689" alt="table 4" src="https://github.com/lhl88422/lhl88422/assets/150093821/344d9da2-71bc-4bf5-a924-e3190eafae0e">
 
-<img width="502" alt="table 5" src="https://github.com/lhl88422/lhl88422/assets/150093821/16eab923-2425-4434-bd69-328dc94397b7"> 
+<img width="502" alt="table 5" src="https://github.com/lhl88422/lhl88422/assets/150093821/16eab923-2425-4434-bd69-328dc94397b7"> <br>
 
 <img width="498" alt="table 6" src="https://github.com/lhl88422/lhl88422/assets/150093821/25d3584d-44e5-48f6-9e77-f5b94bf8ee38">
 
