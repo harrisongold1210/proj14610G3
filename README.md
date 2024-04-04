@@ -96,6 +96,8 @@ Justification: This information can be used for revenue maximization, resource a
 Query 10:<br>
 
 Justification: This information allows us to understand which tournaments have a more rigorous work schedule as staff salary is based on work completion.<br>
+### Query Matrix:
+<img width="459" alt="Screenshot 2024-04-04 at 5 33 06 PM" src="https://github.com/lhl88422/lhl88422/assets/150093821/cf9d2aa9-312d-4848-9e5d-008fc77f6887">
 
 ### Database Information:
 Name of the database: al_Group_21479_G3 <br>
