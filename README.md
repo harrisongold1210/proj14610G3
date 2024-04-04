@@ -19,13 +19,13 @@ Raul Fernandez:
 <img width="623" alt="Screenshot 2024-04-04 at 3 23 29 PM" src="https://github.com/lhl88422/lhl88422/assets/150093821/80387ee1-d93d-4166-a051-ae22b07556c9">
 
 ### Explanation of data model:
-This data model represents a comprehensive system for managing a sports club or facility, covering various aspects from member management to facility reservations, events organization, payments, feedback collection, coaching, and league management.
+This data model encapsulates a robust system designed to efficiently manage operations within a tennis club, encompassing various facets ranging from member administration to court reservations, event coordination, payments, feedback collection, coaching, and league management.
 
-At its core, the model captures detailed information about members, including their personal details, membership status, and engagement with the club such as reservations, event participation, payments, and feedback. This allows for personalized interactions and efficient tracking of member activities within the club.
+Fundamentally, the model captures comprehensive member profiles, including personal particulars, membership status, and their engagement within the club such as court reservations, event participation, payments, and feedback. This enables personalized interactions and streamlined monitoring of member activities, ensuring a tailored experience for each individual within the tennis club community.
 
-Additionally, the model accounts for staff members who play crucial roles in managing facilities, organizing events, coaching sessions, and overseeing the overall operations of the club. Staff members are associated with specific responsibilities and can efficiently handle tasks such as facility maintenance, event coordination, and coaching sessions scheduling.
+Moreover, the model accommodates staff roles pivotal in court management, event organization, coaching sessions, and overall club oversight. Staff members are allocated specific responsibilities, facilitating tasks like court maintenance, event planning, and scheduling coaching sessions, thereby ensuring the smooth functioning of day-to-day operations.
 
-Furthermore, the model facilitates the management of facilities, equipment, and leagues within the club. Facilities can be reserved by members for various activities, including training sessions led by coaches. Leagues are structured with teams formed by members, enabling organized competitions and fostering a sense of community and camaraderie within the club. Moreover, events within the club can also serve as tournaments through a one-to-one recursive relationship, allowing for seamless integration of tournament functionalities within the broader event management system. This enhances the versatility and functionality of the data model, contributing to a more comprehensive club management system.
+Furthermore, the model facilitates the management of tennis courts, equipment, and leagues within the club. Members can easily reserve courts for practice or matches, with coaching sessions led by certified instructors. Leagues are structured with teams formed by club members, fostering a spirit of competition and community. Additionally, events hosted by the club can be seamlessly integrated with tournaments through a one-to-one recursive relationship, enhancing the club's versatility and providing opportunities for competitive play within the tennis community.
 
 ### Data Dictionary: 
 <img width="671" alt="table 1" src="https://github.com/lhl88422/lhl88422/assets/150093821/ea3f2185-2052-43c0-a9f5-aab180d04070">
@@ -55,6 +55,47 @@ Furthermore, the model facilitates the management of facilities, equipment, and 
 
 
 ### Queries: 
+Query 1:<br>
+
+Justification: This is helpful information for the facilities to have for resource allocation and to ensure that they are appropriately managing their employee's workload. <br>
+
+
+Query 2:<br>
+
+Justification: This information is helpful as it can be used for quality assessments for every facility and can be helpful when conducting performance evaluations in order to ensure customer satisfaction. <br>
+
+Query 3:<br>
+
+Justification: This is useful information that can be used for financial tracking as well potential reward/recognition of committed members to the facilities. <br>
+
+
+Query 4:<br>
+
+Justification: This can be useful information for session planning on the coach/staff members end as well as resource allocation within their own facility as well as across all facilities. This information is also useful in equipment management and ensuring all of the equipment purchased is accounted for. <br>
+
+Query 5:<br>
+
+Justification: Having the ability to pull a team captain name based on filters up to the discretion of the data analyst allows dor the ability to improve communication, ensure leadership recognition and improve decision-making by having the information be readily available. <br>
+
+Query 6:<br>
+
+Justification: This information allows the facilities to send targeted communication strategies to ensure all members have access/ability to create a reservation to ease their time at our facilities. <br>
+
+Query 7:<br>
+
+Justification: This information can be used for the coaches performance evaluation,workload management and resource allocation. <br>
+
+Query 8:<br>
+
+Justification: This information is useful in order for scheduling purposes of staff and coaches as well as resource management. This information is also useful to track member engagement. <br>
+
+Query 9:<br>
+
+Justification: This information can be used for revenue maximization, resource allocation, customer retention and optimizing the company's competitive advantage and assessing it’s operational efficiency. <br>
+
+Query 10:<br>
+
+Justification: This information allows us to understand which tournaments have a more rigorous work schedule as staff salary is based on work completion.<br>
 
 ### Database Information:
 Name of the database: al_Group_21479_G3 <br>
