@@ -4,11 +4,11 @@
 
 ### Team Members:
 
-Harrison Goldstein <br>
-Fiza Bhayani <br>
-Ethan Denbrok <br>
-Luke Lambert <br>
-Raul Fernandez 
+Harrison Goldstein: <br>
+Fiza Bhayani: <br>
+Ethan Denbrok: <br>
+Luke Lambert: <br>
+Raul Fernandez:  
 
 ### Problem Description:
 
@@ -51,6 +51,10 @@ Raul Fernandez
 ### Queries: 
 
 ### Database Information:
+Name of the database: al_Group_21479_G3 <br>
+<br>
+Additional information: Query 7 and 9 listed above is marked in the database using stored procedures which can be called using the following format: “ CALL GetCoachTrainingSessionCounts7(); “ and “CALL GetReservedFacilities9();”
+
 
 
 
