@@ -11,8 +11,7 @@ Luke Lambert: <br>
 Raul Fernandez:  
 
 ### Problem Description:
-
-
+As consultants hired by the tennis club, our task is to develop a comprehensive database that efficiently manages various aspects of club operations and member engagement. This database will serve as a centralized platform for storing and organizing member information, preferences, feedback, and participation in club activities. It will include modules for event planning, scheduling coaching sessions, managing league activities, and tracking facility upkeep. Additionally, the database will integrate features for inventory management of equipment essential for games and training sessions. It will also facilitate the creation of a vibrant community environment by enabling the scheduling and promotion of league games, tournaments, and other social events. Moreover, the database will support talent development initiatives by allowing the tracking of member progress, skill levels, and participation in customized coaching sessions conducted by qualified instructors. Our goal is to create a user-friendly and efficient database solution that empowers the tennis club to better serve its members and enhance their overall experience within the club community.
 
 ### Data Model: 
 
