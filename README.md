@@ -75,7 +75,7 @@ Justification: This can be useful information for session planning on the coach/
 
 Query 5:<br>
 
-Justification: Having the ability to pull a team captain name based on filters up to the discretion of the data analyst allows dor the ability to improve communication, ensure leadership recognition and improve decision-making by having the information be readily available. <br>
+Justification: This modified query now exclusively retrieves team names containing the letter 'S', without further filtering based on member names. By focusing solely on team names, it offers a broader scope of data retrieval, potentially enabling analyses or actions targeting teams with specific naming characteristics. <br>
 
 Query 6:<br>
 
@@ -83,7 +83,7 @@ Justification: This information allows the facilities to send targeted communica
 
 Query 7:<br>
 
-Justification: This information can be used for the coaches performance evaluation,workload management and resource allocation. <br>
+Justification:  <br>
 
 Query 8:<br>
 
