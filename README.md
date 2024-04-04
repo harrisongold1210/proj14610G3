@@ -18,8 +18,14 @@ Raul Fernandez:
 
 <img width="623" alt="Screenshot 2024-04-04 at 3 23 29 PM" src="https://github.com/lhl88422/lhl88422/assets/150093821/80387ee1-d93d-4166-a051-ae22b07556c9">
 
- ### Explanation of data model:
+### Explanation of data model:
+This data model represents a comprehensive system for managing a sports club or facility, covering various aspects from member management to facility reservations, events organization, payments, feedback collection, coaching, and league management.
 
+At its core, the model captures detailed information about members, including their personal details, membership status, and engagement with the club such as reservations, event participation, payments, and feedback. This allows for personalized interactions and efficient tracking of member activities within the club.
+
+Additionally, the model accounts for staff members who play crucial roles in managing facilities, organizing events, coaching sessions, and overseeing the overall operations of the club. Staff members are associated with specific responsibilities and can efficiently handle tasks such as facility maintenance, event coordination, and coaching sessions scheduling.
+
+Furthermore, the model facilitates the management of facilities, equipment, and leagues within the club. Facilities can be reserved by members for various activities, including training sessions led by coaches. Leagues are structured with teams formed by members, enabling organized competitions and fostering a sense of community and camaraderie within the club. Moreover, events within the club can also serve as tournaments through a one-to-one recursive relationship, allowing for seamless integration of tournament functionalities within the broader event management system. This enhances the versatility and functionality of the data model, contributing to a more comprehensive club management system.
 
 ### Data Dictionary: 
 <img width="671" alt="table 1" src="https://github.com/lhl88422/lhl88422/assets/150093821/ea3f2185-2052-43c0-a9f5-aab180d04070">
