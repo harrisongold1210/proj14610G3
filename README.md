@@ -75,7 +75,7 @@ Justification: This can be useful information for session planning on the coach/
 
 Query 5:<br>
 
-Justification: This modified query now exclusively retrieves team names containing the letter 'S', without further filtering based on member names. By focusing solely on team names, it offers a broader scope of data retrieval, potentially enabling analyses or actions targeting teams with specific naming characteristics. <br>
+Justification: This query exclusively retrieves team names containing the letter 'S'. By focusing solely on team names, it offers a broader scope of data retrieval, potentially enabling analyses or actions targeting teams with specific naming characteristics.<br>
 
 Query 6:<br>
 
@@ -83,7 +83,7 @@ Justification: This information allows the facilities to send targeted communica
 
 Query 7:<br>
 
-Justification:  <br>
+Justification: This query is useful for assessing the workload and effectiveness of individual coaches by determining the total number of training sessions they have led and their average session duration.  <br>
 
 Query 8:<br>
 
@@ -96,6 +96,7 @@ Justification: This information can be used for revenue maximization, resource a
 Query 10:<br>
 
 Justification: This information allows us to understand which tournaments have a more rigorous work schedule as staff salary is based on work completion.<br>
+
 ### Query Matrix:
 <img width="459" alt="Screenshot 2024-04-04 at 5 33 06 PM" src="https://github.com/lhl88422/lhl88422/assets/150093821/cf9d2aa9-312d-4848-9e5d-008fc77f6887">
 
