@@ -72,6 +72,7 @@ Justification: This is useful information that can be used for financial trackin
 
 
 Query 4:<br>
+<img width="899" alt="4" src="https://github.com/lhl88422/MIST4610-Project-1/assets/150093821/573424ad-619b-489f-9c8a-8bc3d26c742a"> <br>
 
 Justification: This can be useful information for session planning on the coach/staff members end as well as resource allocation within their own facility as well as across all facilities. This information is also useful in equipment management and ensuring all of the equipment purchased is accounted for. <br>
 
