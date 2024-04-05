@@ -86,6 +86,7 @@ Query 6:<br>
 Justification: This information allows the facilities to send targeted communication strategies to ensure all members have access/ability to create a reservation to ease their time at our facilities. <br>
 
 Query 7:<br>
+<img width="991" alt="7" src="https://github.com/lhl88422/MIST4610-Project-1/assets/150093821/40cd9f04-a8ff-42fa-b3a4-c4b0284449e1"> <br>
 
 Justification: This query is useful for assessing the workload and effectiveness of individual coaches by determining the total number of training sessions they have led and their average session duration.  <br>
 
