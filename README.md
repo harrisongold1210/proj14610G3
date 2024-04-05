@@ -55,6 +55,7 @@ Furthermore, the model facilitates the management of tennis courts, equipment, a
 
 ### Queries: 
 Query 1:<br>
+<img width="680" alt="1" src="https://github.com/lhl88422/MIST4610-Project-1/assets/150093821/c1788473-73ff-4904-bae4-f9ffb8835c18"> <br>
 
 Justification: This is helpful information for the facilities to have for resource allocation and to ensure that they are appropriately managing their employee's workload. <br>
 
