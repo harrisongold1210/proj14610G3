@@ -55,53 +55,63 @@ Furthermore, the model facilitates the management of tennis courts, equipment, a
 
 ### Queries: 
 Query 1:<br>
+Find the number of staff members at each individual facility.<br>
 <img width="680" alt="1" src="https://github.com/lhl88422/MIST4610-Project-1/assets/150093821/c1788473-73ff-4904-bae4-f9ffb8835c18"> <br>
 
 Justification: This is helpful information for the facilities to have for resource allocation and to ensure that they are appropriately have enough employees at each facility. <br>
 
 
 Query 2:<br>
+Find the average rating for all feedback provided <br>
 <img width="617" alt="2" src="https://github.com/lhl88422/MIST4610-Project-1/assets/150093821/9028add2-a088-4937-a9e4-b7c66c083517"> <br>
 
 Justification: This information is helpful as it can be used for quality assessments for every facility and can be helpful when conducting performance evaluations in order to ensure customer satisfaction. <br>
 
 Query 3:<br>
+Find the sum of the payment amount submitted by each member <br>
 <img width="559" alt="3" src="https://github.com/lhl88422/MIST4610-Project-1/assets/150093821/e1ea12c6-e989-48d9-b6a7-4c7c3110c98b"> <br>
 
 Justification: This is useful information that can be used for financial tracking as well potential reward/recognition of committed members to the facilities. <br>
 
 
 Query 4:<br>
+List the quantity and the name of all the equipment needed in each training session <br>
 <img width="899" alt="4" src="https://github.com/lhl88422/MIST4610-Project-1/assets/150093821/573424ad-619b-489f-9c8a-8bc3d26c742a"> <br>
 
 Justification: This can be useful information for session planning on the coach/staff members end as well as resource allocation within their own facility as well as across all facilities. This information is also useful in equipment management and ensuring all of the equipment purchased is accounted for. <br>
 
 Query 5:<br>
+Retrieve the team name, member ID, first name, and last name for all team members belonging to teams with names starting with 'S', while also including members whose first or last name contains the letter 's'. <br>
 <img width="1009" alt="5" src="https://github.com/lhl88422/MIST4610-Project-1/assets/150093821/eede0b02-fabc-47d5-83f5-1437c561be9d"> <br>
 
 Justification: This query exclusively retrieves team names containing the letter 'S'. By focusing solely on team names, it offers a broader scope of data retrieval, potentially enabling analyses or actions targeting teams with specific naming characteristics.<br>
 
 Query 6:<br>
+Retrieve all members who have not made any reservation <br>
 <img width="744" alt="6" src="https://github.com/lhl88422/MIST4610-Project-1/assets/150093821/96cbe6eb-59e0-4a60-847e-c9842a7668f6"> <br>
 
 Justification: This information allows the facilities to send targeted communication strategies to ensure all members have access/ability to create a reservation to ease their time at our facilities. <br>
 
 Query 7:<br>
+Calculate the total number of training sessions led by each coach <br>
 <img width="991" alt="7" src="https://github.com/lhl88422/MIST4610-Project-1/assets/150093821/40cd9f04-a8ff-42fa-b3a4-c4b0284449e1"> <br>
 
 Justification: This query is useful for assessing the workload and effectiveness of individual coaches by determining the total number of training sessions they have led and their average session duration.  <br>
 
 Query 8:<br>
+List the name of the member who made a reservation, where the reservation is, and start and end time of the reservation <br>
 <img width="1092" alt="8" src="https://github.com/lhl88422/MIST4610-Project-1/assets/150093821/4d210cf0-41ee-4f59-bc05-55ccb31faebc"> <br>
 
 Justification: This information is useful in order for scheduling purposes of staff and coaches as well as resource management. This information is also useful to track member engagement. <br>
 
 Query 9:<br>
+List the members who have made reservations for facilities, including their first and last names, along with the facility name, start time, and end time of their reservations, but only for those members who have made payments exceeding $10. <br>
 <img width="982" alt="9" src="https://github.com/lhl88422/MIST4610-Project-1/assets/150093821/1f582582-e26a-43fe-b6c4-8a021ffb5c5b"> <br>
 
 Justification: This information can be used for revenue maximization, resource allocation, customer retention and optimizing the company's competitive advantage and assessing it’s operational efficiency. <br>
 
 Query 10:<br>
+Find the tournaments where the average salary of staff members working in that tournament is more than $10,000 <br>
 <img width="887" alt="10" src="https://github.com/lhl88422/MIST4610-Project-1/assets/150093821/96b2cf5e-499c-44b8-a9c2-6f219a39da9c"> <br>
 
 Justification: This information allows us to understand which tournaments have a more rigorous work schedule as staff salary is based on work completion.<br>
