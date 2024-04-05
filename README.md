@@ -89,14 +89,17 @@ Query 7:<br>
 Justification: This query is useful for assessing the workload and effectiveness of individual coaches by determining the total number of training sessions they have led and their average session duration.  <br>
 
 Query 8:<br>
+<img width="1092" alt="8" src="https://github.com/lhl88422/MIST4610-Project-1/assets/150093821/4d210cf0-41ee-4f59-bc05-55ccb31faebc"> <br>
 
 Justification: This information is useful in order for scheduling purposes of staff and coaches as well as resource management. This information is also useful to track member engagement. <br>
 
 Query 9:<br>
+<img width="982" alt="9" src="https://github.com/lhl88422/MIST4610-Project-1/assets/150093821/1f582582-e26a-43fe-b6c4-8a021ffb5c5b"> <br>
 
 Justification: This information can be used for revenue maximization, resource allocation, customer retention and optimizing the company's competitive advantage and assessing it’s operational efficiency. <br>
 
 Query 10:<br>
+<img width="887" alt="10" src="https://github.com/lhl88422/MIST4610-Project-1/assets/150093821/96b2cf5e-499c-44b8-a9c2-6f219a39da9c"> <br>
 
 Justification: This information allows us to understand which tournaments have a more rigorous work schedule as staff salary is based on work completion.<br>
 
