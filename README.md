@@ -64,6 +64,7 @@ Query 2:<br>
 Justification: This information is helpful as it can be used for quality assessments for every facility and can be helpful when conducting performance evaluations in order to ensure customer satisfaction. <br>
 
 Query 3:<br>
+<img width="559" alt="3" src="https://github.com/lhl88422/MIST4610-Project-1/assets/150093821/e1ea12c6-e989-48d9-b6a7-4c7c3110c98b"> <br>
 
 Justification: This is useful information that can be used for financial tracking as well potential reward/recognition of committed members to the facilities. <br>
 
@@ -73,10 +74,12 @@ Query 4:<br>
 Justification: This can be useful information for session planning on the coach/staff members end as well as resource allocation within their own facility as well as across all facilities. This information is also useful in equipment management and ensuring all of the equipment purchased is accounted for. <br>
 
 Query 5:<br>
+<img width="1009" alt="5" src="https://github.com/lhl88422/MIST4610-Project-1/assets/150093821/eede0b02-fabc-47d5-83f5-1437c561be9d"> <br>
 
 Justification: This query exclusively retrieves team names containing the letter 'S'. By focusing solely on team names, it offers a broader scope of data retrieval, potentially enabling analyses or actions targeting teams with specific naming characteristics.<br>
 
 Query 6:<br>
+<img width="744" alt="6" src="https://github.com/lhl88422/MIST4610-Project-1/assets/150093821/96cbe6eb-59e0-4a60-847e-c9842a7668f6"> <br>
 
 Justification: This information allows the facilities to send targeted communication strategies to ensure all members have access/ability to create a reservation to ease their time at our facilities. <br>
 
