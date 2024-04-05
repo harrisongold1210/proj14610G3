@@ -61,6 +61,7 @@ Justification: This is helpful information for the facilities to have for resour
 
 
 Query 2:<br>
+<img width="617" alt="2" src="https://github.com/lhl88422/MIST4610-Project-1/assets/150093821/9028add2-a088-4937-a9e4-b7c66c083517"> <br>
 
 Justification: This information is helpful as it can be used for quality assessments for every facility and can be helpful when conducting performance evaluations in order to ensure customer satisfaction. <br>
 
